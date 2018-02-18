@@ -10,19 +10,15 @@ You can find [at this address](https://imgur.com/a/ob6J1) the full imgur album w
 
 ## Prerequisites - Setup the environment
 
-* I downloaded Vagrant and VirtualBox, then checked with the cmd on Windows with `vagrant -v` if Vagrant was properly installed:
-
+> I downloaded Vagrant and VirtualBox, then checked with the cmd on Windows with `vagrant -v` if Vagrant was properly installed:
 <a href="https://i.imgur.com/Mn7XOdG.jpg" title="Checking Vagrant installation">
-<img src="https://i.imgur.com/Mn7XOdG.jpg" width="500" height="332" align="middle" alt="Checking Vagrant installation"></a>
+<img src="https://i.imgur.com/Mn7XOdG.jpg" width="500" height="332" alt="Checking Vagrant installation"></a>
 
-
-* I tried to run the VM on the cmd but it did not work: I realised the terminal on Windows was not able to do that.
-
+> I tried to run the VM on the cmd but it did not work: I realised the terminal on Windows was not able to do that.
 <a href="https://i.imgur.com/Ad5idoC.jpg" title="Issue with Vagrant authorization">
 <img src="https://i.imgur.com/Ad5idoC.jpg" width="500" height="332" alt="Issue with Vagrant authorization"></a>
 
-
-So, I downloaded Cmder and initialized the VM with 'vagrant init hashicorp/precise64'
+> So, I downloaded Cmder and initialized the VM with 'vagrant init hashicorp/precise64'
 <a href="https://i.imgur.com/0zlivYt.jpg" title="Booting VM on Vagrant">
 <img src="https://i.imgur.com/0zlivYt.jpg" width="500" height="332" alt="Booting VM on Vagrant"></a>
 
