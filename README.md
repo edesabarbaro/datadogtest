@@ -6,7 +6,7 @@ First, I started by reading the [Github introduction guide](https://guides.githu
 
 Thank you for taking the time to consider my application!
 
-You can find [at this address](https://imgur.com/a/ob6J1) the full imgur album with the screenshots.
+You can find [at this address](https://imgur.com/a/GMviG) the full imgur album with the screenshots.
 
 ## Prerequisites - Setup the environment
 
